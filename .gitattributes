@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source files should be normalized
+*.js text
+*.less text
+*.html text
