@@ -1,6 +1,7 @@
-// Quran Metadata (ver 1.0.0) 
+// Quran Metadata (ver 1.0.1) 
 // Based on project Tanzil.info
 // Copyright (C) 2008-2015 Tanzil.info
+// Copyright (C) 2015-2017 elsagradocoran.org
 // License: Creative Commons Attribution 4.0
 // Contributor: Alexander J. Salas B. (ذو القرنين)
 // Translator: Muhammad Isa García
