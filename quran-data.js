@@ -1,4 +1,4 @@
-// Quran Metadata (ver 1.2) 
+// Quran Metadata (ver 1.0.0) 
 // Based on project Tanzil.info
 // Copyright (C) 2008-2015 Tanzil.info
 // License: Creative Commons Attribution 4.0
