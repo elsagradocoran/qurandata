@@ -1,0 +1,21 @@
+{
+    "name": "qurandata",
+    "authors": [
+      "Alexander Salas Bastidas <a.salas@ieee.org>"
+    ],
+    "description": "Quran Metadata based on project Tanzil",
+    "main": "quran-data.js",
+    "keywords": [
+      "tanzil",
+      "quran"
+    ],
+    "license": "Creative Commons Attribution 4.0 International License",
+    "homepage": "http://elsagradocoran.org/",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ]
+  }
